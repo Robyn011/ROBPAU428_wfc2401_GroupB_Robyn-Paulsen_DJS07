@@ -4,4 +4,5 @@ In this challenge I was required to code-along the Scrimba lesson: https://scrim
 After cloning run npm install to install dependencies. Then npm start.
  ## netify link:
  
-https://robyns-memes-generator-01.netlify.app
+https://robyns-meme-generator.netlify.app
+
